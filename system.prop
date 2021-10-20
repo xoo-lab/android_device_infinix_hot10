@@ -88,3 +88,10 @@ persist.dbg.wfc_avail_ovr=1
 
 # Permissions
 ro.control_privapp_permissions=disable
+
+# Sim
+persist.radio.multisim.config=dsds 
+persist.vendor.radio.msimmode=dsds 
+ro.vendor.radio.max.multisim=dsds 
+ro.telephony.sim.count=2
+persist.vendor.radio.tsd.multisimmode=2
